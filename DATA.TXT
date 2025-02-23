@@ -1,0 +1,6 @@
+Fruit: Pineapple, Color: Yellow
+Fruit: Water-mmelon, Color: Red
+Fruit: Mango, Color: Orange
+Fruit: Grapes, Color: Green
+Fruit: Blueberry, Color: Blue
+Fruit: Dragon-Fruit, Color: White
